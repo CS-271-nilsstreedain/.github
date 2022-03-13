@@ -21,6 +21,7 @@
 ## Two fundamental rules
 1. You are responsible for knowing the contents of the syllabus and all of the information about the course provided on Canvas. 
 2. You are responsible for knowing the contents of instructor announcements made on Canvas and Discord (Links to an external site.), which means that you should make sure you receive such announcements and that you check for new ones at least once a day.
+
 **Important Note: Until further notice, the university has a requirement to use a face covering when in indoor spaces in order to contribute to the health and safety of the OSU community during the ongoing COVID-19 pandemic. Accordingly, you are expected to use a face covering when attending class. Failure to so may result in being asked to leave the classroom. Please contact me before class if you have concerns with meeting this expectation. I encourage you to review the PolicyLinks to an external site. yourself, to understand the university's expectations around the use of face coverings outside the classroom, OSU's Vaccination requirement, and OSU's isolation and quarantine requirements.**
 
 
