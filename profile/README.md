@@ -14,15 +14,15 @@
 
 **TA mailer:** cs271-ta@engr.orst.edu (distributed to all TAs and the instructor)
 
-**Online Discussion Forum:** Discord (Links to an external site.)
+**Online Discussion Forum:** [Discord](https://discord.gg/BgugqT4gSW)
 
-*See the Office Hours page for information on TAs and/or Office Hours.*
+See the [Office Hours](https://canvas.oregonstate.edu/courses/1849569/pages/office-hours) page for information on TAs and/or Office Hours.
 
 ## Two fundamental rules
 1. You are responsible for knowing the contents of the syllabus and all of the information about the course provided on Canvas. 
-2. You are responsible for knowing the contents of instructor announcements made on Canvas and Discord (Links to an external site.), which means that you should make sure you receive such announcements and that you check for new ones at least once a day.
+2. You are responsible for knowing the contents of instructor announcements made on Canvas and [Discord](https://discord.gg/BgugqT4gSW), which means that you should make sure you receive such announcements and that you check for new ones at least once a day.
 
-**Important Note: Until further notice, the university has a requirement to use a face covering when in indoor spaces in order to contribute to the health and safety of the OSU community during the ongoing COVID-19 pandemic. Accordingly, you are expected to use a face covering when attending class. Failure to so may result in being asked to leave the classroom. Please contact me before class if you have concerns with meeting this expectation. I encourage you to review the PolicyLinks to an external site. yourself, to understand the university's expectations around the use of face coverings outside the classroom, OSU's Vaccination requirement, and OSU's isolation and quarantine requirements.**
+**Important Note: Until further notice, the university has a requirement to use a face covering when in indoor spaces in order to contribute to the health and safety of the OSU community during the ongoing COVID-19 pandemic. Accordingly, you are expected to use a face covering when attending class. Failure to so may result in being asked to leave the classroom. Please contact me before class if you have concerns with meeting this expectation. I encourage you to review the [Policy](https://covid.oregonstate.edu/safety-and-success-planning) yourself, to understand the university's expectations around the use of face coverings outside the classroom, OSU's Vaccination requirement, and OSU's isolation and quarantine requirements.**
 
 
 
@@ -42,19 +42,19 @@
 
 - 3.1. Any email sent to the instructor or the TA mailer about this course must originate with an OSU supplied email account and contain the tag [CS271] at the beginning of the subject. Failure to comply with this will result in delayed (or possibly nonexistent) response to your email.
 
-- 3.2. Office hours will be held in person (See Office Hours page).
+- 3.2. Office hours will be held in person (See [Office Hours](https://canvas.oregonstate.edu/courses/1849569/pages/office-hours) page).
 
-- 3.3. You may post all course-related questions in the "general" channel on Discord (Links to an external site.) so that the whole class may benefit from your conversation.
+- 3.3. You may post all course-related questions in the "general" channel on [Discord](https://discord.gg/BgugqT4gSW) so that the whole class may benefit from your conversation.
 
 ## 4. Technical Assistance
 
-- 4.1. If you experience computer difficulties, need help downloading a browser or plug-in, assistance logging into the course, or if you experience any errors or problems while in your course, contact the OSU Help Desk for assistance. You can call (541) 737-3474 (USA), email osuhelpdesk@oregonstate.edu or visit the OSU Computer HelpdeskLinks to an external site. online.
+- 4.1. If you experience computer difficulties, need help downloading a browser or plug-in, assistance logging into the course, or if you experience any errors or problems while in your course, contact the OSU Help Desk for assistance. You can call (541) 737-3474 (USA), email osuhelpdesk@oregonstate.edu or visit the [OSU Computer Helpdesk](http://oregonstate.edu/is/tss/och/) online.
 
 ## 5. Learning Resources
 
 - 5.1. Electronic Textbook: Irvine, Kip R., Assembly Language for x86 Processors (8th ed.), Pearson Education. (ISBN 9780135381793)
 
-  - 5.1.1. Note: I have selected the 8th edition of the textbook for our course because the 7th edition is no longer being published. However, if you have an existing copy of the 7th edition the content is very similar and it will work for this course. (You may access the 7th edition hereLinks to an external site.)
+  - 5.1.1. Note: I have selected the 8th edition of the textbook for our course because the 7th edition is no longer being published. However, if you have an existing copy of the 7th edition the content is very similar and it will work for this course. (You may access the 7th edition [here](http://classes.engr.oregonstate.edu/eecs/winter2021/cs271-001/textbook_7th_edition.pdf))
 
 ## 6. Canvas and Discord
 
@@ -228,7 +228,7 @@ Percentage | 93+ | 90-92 | 87-89 | 83-86 | 80-82 | 77-79 | 73-76 | 70-72 | 67-69
 
   - 13.11.5. Make sure you read the entire assignment. There can be some really useful information in all that text.
 
-- 13.12. We will be using Visual Studio as the development environment for this class, specifically MASM (Microsoft Macro Assembler). You can use most versions of Visual Studio after 2010, but I recommend Enterprise 2019. If you use some other assembler (e.g. NASM),  your code likely will not assemble and you’ll lose most/all of your points. If you don’t already have Visual Studio, you can get it (free for student use) through Microsoft Azure (See the Setup InstructionsLinks to an external site.).
+- 13.12. We will be using Visual Studio as the development environment for this class, specifically MASM (Microsoft Macro Assembler). You can use most versions of Visual Studio after 2010, but I recommend Enterprise 2019. If you use some other assembler (e.g. NASM),  your code likely will not assemble and you’ll lose most/all of your points. If you don’t already have Visual Studio, you can get it (free for student use) through Microsoft Azure (See the [Setup Instructions](http://classes.engr.oregonstate.edu/eecs/winter2021/cs271-001/CS271_Visual_Studio_Setup_Instructions.pdf)).
 
 - 13.13. Feedback for your programming assignments will be given through Canvas. Once a programming assignment is graded, the rubric results will be available from the Grades tab in Canvas (the icon resembles a clipboard). Please take the time to read this. It is one of the important ways to learn in the class.
 
@@ -286,11 +286,11 @@ Percentage | 93+ | 90-92 | 87-89 | 83-86 | 80-82 | 77-79 | 73-76 | 70-72 | 67-69
 
 ## 15.Statement Regarding Students with Disabilities
 
-- 15.1. Accommodations for students with disabilities are determined and approved by Disability Access Services (DAS). If you, as a student, believe you are eligible for accommodations but have not obtained approval please contact DAS immediately at 541-737-4098 or at http://ds.oregonstate.eduLinks to an external site.. DAS notifies students and faculty members of approved academic accommodations and coordinates implementation of those accommodations. While not required, students and faculty members are encouraged to discuss details of the implementation of individual accommodations.
+- 15.1. Accommodations for students with disabilities are determined and approved by Disability Access Services (DAS). If you, as a student, believe you are eligible for accommodations but have not obtained approval please contact DAS immediately at 541-737-4098 or at http://ds.oregonstate.edu. DAS notifies students and faculty members of approved academic accommodations and coordinates implementation of those accommodations. While not required, students and faculty members are encouraged to discuss details of the implementation of individual accommodations.
 
 ## 16.Expectations for Student Conduct
 
-- 16.1. Student conduct is governed by the university’s policies, as explained at https://beav.es/codeofconduct (Links to an external site.)
+- 16.1. Student conduct is governed by the university’s policies, as explained at https://beav.es/codeofconduct
 
 ## 17.Academic Honesty
 
@@ -312,7 +312,7 @@ Percentage | 93+ | 90-92 | 87-89 | 83-86 | 80-82 | 77-79 | 73-76 | 70-72 | 67-69
 
 ## 18.Academic Integrity
 
-- 18.1. Students are expected to comply with all regulations pertaining to academic honesty. For further information, visit the OSU informational pageLinks to an external site., or contact the office of Student Conduct and Community Standards at 541-737-3656.
+- 18.1. Students are expected to comply with all regulations pertaining to academic honesty. For further information, visit the [OSU informational page](https://studentlife.oregonstate.edu/studentconduct/academicmisconduct), or contact the office of Student Conduct and Community Standards at 541-737-3656.
 
   - 18.1.1. OAR 576-015-0020 (2) Academic or Scholarly Dishonesty: Academic or Scholarly Dishonesty is defined as an act of deception in which a Student seeks to claim credit for the work or effort of another person, or uses unauthorized materials or fabricated information in any academic work or research, either through the Student's own efforts or the efforts of another.
 
@@ -332,4 +332,4 @@ Percentage | 93+ | 90-92 | 87-89 | 83-86 | 80-82 | 77-79 | 73-76 | 70-72 | 67-69
 
 ## 19. Reach Out for Success
 
-- 19.1. University students encounter setbacks from time to time. If you encounter difficulties and need assistance, it’s important to reach out. Consider discussing the situation with an instructor or academic advisor. Learn about resources that assist with wellness and academic success at oregonstate.edu/ReachOutLinks to an external site.. If you are in immediate crisis, please contact the Crisis Text Line by texting OREGON to 741-741 or call the National Suicide Prevention Lifeline at 1-800-273-TALK (8255)
+- 19.1. University students encounter setbacks from time to time. If you encounter difficulties and need assistance, it’s important to reach out. Consider discussing the situation with an instructor or academic advisor. Learn about resources that assist with wellness and academic success at oregonstate.edu/ReachOut. If you are in immediate crisis, please contact the Crisis Text Line by texting OREGON to 741-741 or call the National Suicide Prevention Lifeline at 1-800-273-TALK (8255)
