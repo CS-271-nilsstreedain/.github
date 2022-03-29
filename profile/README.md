@@ -96,7 +96,7 @@ See the [Office Hours](https://canvas.oregonstate.edu/courses/1849569/pages/offi
 
 Letter Grade | A | A- | B+ | B | B- | C+ | C | C- | D+ | D | D- | F |
 -|-|-|-|-|-|-|-|-|-|-|-|-
-Percentage | 93+ | 90-92 | 87-89 | 83-86 | 80-82 | 77-79 | 73-76 | 70-72 | 67-69 | 63-66 | 60-62 | 59-
+% | 93+ | 92-90 | 89-87 | 86-83 | 82-80 | 79-77 | 76-73 | 72-70 | 69-67 | 66-63 | 62-60 | 59-
 
 *REMINDER: A passing grade for core classes in CS is a C or above. A C-, 72 or below, is not a passing grade for CS/ECE majors.*
 
